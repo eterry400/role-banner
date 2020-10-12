@@ -1,0 +1,6 @@
+---
+- name: Copy Banner
+  copy:
+    src: Banner
+    dest: /etc/Banner
+
